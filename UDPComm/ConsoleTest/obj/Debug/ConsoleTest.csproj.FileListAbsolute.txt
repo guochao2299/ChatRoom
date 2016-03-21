@@ -1,0 +1,7 @@
+F:\my programs\C#\UDPComm\ConsoleTest\bin\Debug\ConsoleTest.exe
+F:\my programs\C#\UDPComm\ConsoleTest\bin\Debug\ConsoleTest.pdb
+F:\my programs\C#\UDPComm\ConsoleTest\bin\Debug\UDPComm.dll
+F:\my programs\C#\UDPComm\ConsoleTest\bin\Debug\UDPComm.pdb
+F:\my programs\C#\UDPComm\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+F:\my programs\C#\UDPComm\ConsoleTest\obj\Debug\ConsoleTest.exe
+F:\my programs\C#\UDPComm\ConsoleTest\obj\Debug\ConsoleTest.pdb

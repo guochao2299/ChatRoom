@@ -1,0 +1,9 @@
+F:\my programs\C#\UDPComm\UDPClient\bin\Debug\UDPClient.exe
+F:\my programs\C#\UDPComm\UDPClient\bin\Debug\UDPClient.pdb
+F:\my programs\C#\UDPComm\UDPClient\bin\Debug\UDPComm.dll
+F:\my programs\C#\UDPComm\UDPClient\bin\Debug\UDPComm.pdb
+F:\my programs\C#\UDPComm\UDPClient\obj\Debug\UDPClient.csprojResolveAssemblyReference.cache
+F:\my programs\C#\UDPComm\UDPClient\obj\Debug\UDPClient.exe
+F:\my programs\C#\UDPComm\UDPClient\obj\Debug\UDPClient.pdb
+F:\my programs\C#\UDPComm\UDPClient\obj\Debug\UDPClient.frmMain.resources
+F:\my programs\C#\UDPComm\UDPClient\obj\Debug\UDPClient.csproj.GenerateResource.Cache

@@ -1,0 +1,4 @@
+F:\my programs\C#\UDPComm\UDPComm\bin\Debug\UDPComm.dll
+F:\my programs\C#\UDPComm\UDPComm\bin\Debug\UDPComm.pdb
+F:\my programs\C#\UDPComm\UDPComm\obj\Debug\UDPComm.dll
+F:\my programs\C#\UDPComm\UDPComm\obj\Debug\UDPComm.pdb

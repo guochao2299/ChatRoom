@@ -1,0 +1,7 @@
+F:\my programs\C#\UDPComm\UDPServer\bin\Debug\UDPServer.exe
+F:\my programs\C#\UDPComm\UDPServer\bin\Debug\UDPServer.pdb
+F:\my programs\C#\UDPComm\UDPServer\bin\Debug\UDPComm.dll
+F:\my programs\C#\UDPComm\UDPServer\bin\Debug\UDPComm.pdb
+F:\my programs\C#\UDPComm\UDPServer\obj\Debug\UDPServer.csprojResolveAssemblyReference.cache
+F:\my programs\C#\UDPComm\UDPServer\obj\Debug\UDPServer.exe
+F:\my programs\C#\UDPComm\UDPServer\obj\Debug\UDPServer.pdb

@@ -1,0 +1,10 @@
+F:\my programs\C#\UDPComm\UDPTest\bin\Debug\UDPTest.dll
+F:\my programs\C#\UDPComm\UDPTest\bin\Debug\UDPTest.pdb
+F:\my programs\C#\UDPComm\UDPTest\bin\Debug\nunit.framework.dll
+F:\my programs\C#\UDPComm\UDPTest\bin\Debug\nunit.mocks.dll
+F:\my programs\C#\UDPComm\UDPTest\bin\Debug\UDPComm.dll
+F:\my programs\C#\UDPComm\UDPTest\bin\Debug\UDPComm.pdb
+F:\my programs\C#\UDPComm\UDPTest\bin\Debug\nunit.framework.xml
+F:\my programs\C#\UDPComm\UDPTest\obj\Debug\UDPTest.csprojResolveAssemblyReference.cache
+F:\my programs\C#\UDPComm\UDPTest\obj\Debug\UDPTest.dll
+F:\my programs\C#\UDPComm\UDPTest\obj\Debug\UDPTest.pdb
